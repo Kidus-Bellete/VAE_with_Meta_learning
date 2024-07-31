@@ -147,8 +147,9 @@ For major changes, please open an issue first to discuss what you would like to 
 
 #### License
 
-Kidus Dagnaw 
-Abel Abebe
+1. Kidus Dagnaw 
+
+2. Abel Abebe
 
 ---
 
