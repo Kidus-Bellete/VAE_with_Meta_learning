@@ -24,7 +24,7 @@ This repository implements an anomaly detection and localization system using a 
 #### Directory Structure
 
 ```
-FAVAE-anomaly-detection-localization/
+FAVAE-anomaly-detection-localization with meta learning/
 │
 ├── datasets/
 │   ├── mvtec.py
@@ -67,7 +67,6 @@ FAVAE-anomaly-detection-localization/
     pip install -r requirements.txt
     ```
 
-    *(Note: Create a `requirements.txt` file with necessary packages if not already present.)*
 
 3. **Prepare Dataset**
 
