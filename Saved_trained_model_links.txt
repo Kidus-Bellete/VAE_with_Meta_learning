@@ -33,6 +33,8 @@ bottle model:
 grid model: https://drive.google.com/drive/folders/16g7OHGsTglcm2q8fKpjCok-i9eWYw3ED?usp=sharing
      output:
 VGG19:
-https://drive.google.com/file/d/1PNKU_40HjL3QoKZs07es2g9c0LCnznS7/view?usp=drive_link_grid_VGG19_MAML
-https://drive.google.com/file/d/1EFEY71LQFVaGdf_KhjQ2TyJq39Q2o6O4/view?usp=drive_link_toothbrush_VGG19_MAML
-https://drive.google.com/file/d/1-Dfsxhzzr__KRcq-OFxbxCDiE6FxYEQ1/view?usp=drive_link_Screw_VGG19_MAML
+grid: https://drive.google.com/file/d/1PNKU_40HjL3QoKZs07es2g9c0LCnznS7/view?usp=drive_link_grid_VGG19_MAML
+toothbrush: https://drive.google.com/file/d/1EFEY71LQFVaGdf_KhjQ2TyJq39Q2o6O4/view?usp=drive_link_toothbrush_VGG19_MAML
+screw: https://drive.google.com/file/d/1-Dfsxhzzr__KRcq-OFxbxCDiE6FxYEQ1/view?usp=drive_link_Screw_VGG19_MAML
+bootle: https://drive.google.com/file/d/1-8pcNhPJOoQc1idUPMFTJfDgnQ-t3TJv/view?usp=drive_link
+pill: https://drive.google.com/file/d/13CjqXQECf3ssrTdWA6x9rStj8v4V5vtw/view?usp=drive_link
