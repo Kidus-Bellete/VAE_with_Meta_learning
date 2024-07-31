@@ -98,16 +98,16 @@ FAVAE-anomaly-detection-localization/
     Train the model using MAML for better generalization across different tasks:
 
     ```sh
-    python meta_train.py
+    python meta_train.py --obj bottle --do_aug
     ```
 
 4. **Testing the Model**
 
     Evaluate the model's performance on the test data:
 
-    1. Download the trained model from the provided Google Drive link.
-    2. Replace the placeholder in test.py with the path to the downloaded model.
-    3. Run the following command, specifying the object type and the path to the checkpoint file:
+     -  Download the trained model from the provided Google Drive link.
+     +  Replace the placeholder in test.py with the path to the downloaded model.
+     * Run the following command, specifying the object type and the path to the checkpoint file:
 
     ```sh
     python test.py --obj pill --checkpoint path_to_model_checkpoint.pt
