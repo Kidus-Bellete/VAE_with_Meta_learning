@@ -1,4 +1,38 @@
+Only VAE
+Toothbrush model : https://drive.google.com/drive/folders/1WG7CBJpfnB1DqLRr8MBXMErBWZoFm5wP?usp=sharing
+           output: https://drive.google.com/drive/folders/1Wkyg5Pv_UYkxGBRldJXe70ETEJfICy-z?usp=sharing
+           
+screw  model: https://drive.google.com/drive/folders/1_Bk4legA1CbQXPzVd6h8dKCa_XC1AW7W?usp=sharing
+       output: https://drive.google.com/drive/folders/1_PieZxSqTMakiBjG7UFy8BYPCkojNz6X?usp=sharing
+       
+pill   model: https://drive.google.com/drive/folders/1jvJfzVfOBV372f_pS_oGPTySVT0snDo8?usp=sharing
+       Output: https://drive.google.com/drive/folders/1ku0SlXWfSMSvYS3O6Yx0sticjHpBwNGk?usp=sharing
+       
+bottle model: https://drive.google.com/drive/folders/14WXWIBQjNnIU6zc7JaVvPJEGTagm1XEL?usp=sharing
+       optput: https://drive.google.com/drive/folders/14pBpPnfs5BGIo0C4SVjEblSPGThCScqM?usp=sharing
+       
+grid model: https://drive.google.com/drive/folders/1MiU0I7eYG5Wv99k5IESFTUtcuA5v6ESb?usp=sharing
+     output: https://drive.google.com/drive/folders/1NML7bjkIb17AovZADzNaojKYOfOCPbTS?usp=sharing
+     
+     
+     
+VGG16
 
+Toothbrush model : https://drive.google.com/drive/folders/1BQaJMtDUSBols2WrvYvilU6kagJJK3-0?usp=sharing
+           output: https://drive.google.com/drive/folders/1CV1ky7EsD33XmHuSpP9jM3DS4hm3tYqI?usp=sharing
+           
+screw  model:
+       output:
+       
+pill   model: 
+       Output:
+       
+bottle model: 
+       optput: 
+       
+grid model: https://drive.google.com/drive/folders/16g7OHGsTglcm2q8fKpjCok-i9eWYw3ED?usp=sharing
+     output:
+VGG19:
 https://drive.google.com/file/d/1PNKU_40HjL3QoKZs07es2g9c0LCnznS7/view?usp=drive_link_grid_VGG19_MAML
 https://drive.google.com/file/d/1EFEY71LQFVaGdf_KhjQ2TyJq39Q2o6O4/view?usp=drive_link_toothbrush_VGG19_MAML
 https://drive.google.com/file/d/1-Dfsxhzzr__KRcq-OFxbxCDiE6FxYEQ1/view?usp=drive_link_Screw_VGG19_MAML
